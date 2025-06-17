@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+whisper
+yt_dlp
+quran-uthmani
+fuzzywuzzy
+python-Levenshtein
